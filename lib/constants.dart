@@ -1,0 +1,21 @@
+import 'package:flutter/material.dart';
+
+const kMainColor = Color.fromRGBO(200, 202, 238 , 1);
+const kSecondaryColor = Color.fromRGBO(228, 228, 246 ,1);
+const kProductName = 'productName';
+const kProductPrice = 'productPrice';
+const kProductDescription = 'productDescription';
+const kProductLocation = 'productLocation';
+const kProductImage = 'productImage';
+const kProductCategory = 'productCategory';
+const kProductsCollection = 'Products';
+const kUnActiveColor = Color(0xFFC1BDB8);
+const kLaptops = 'laptops';
+const kPhone = 'phones';
+const kTshirts = 't-shirts';
+const kShoes = 'shoes';
+const kOrders = 'Orders';
+const kOrderDetails = 'OrderDetails';
+const kTotallPrice = 'TotallPrice';
+const kAddress = 'Address';
+const kProductQuantity = 'Quantity';
